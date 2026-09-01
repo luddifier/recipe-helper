@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables / API keys
+.env
+
+# Generated embedding index
+recipe_embeddings.npz
+
+# Original recipe list
+20170107-061401-recipeitems.json
